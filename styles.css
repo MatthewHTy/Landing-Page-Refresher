@@ -92,3 +92,30 @@ span {
     font-weight: lighter;
 }
 
+.cta {
+    background-color: #3882F6;
+    margin: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+}
+
+.cta-box {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    gap: 100px;
+}
+
+.sign-up {
+    padding: 10px;
+    border: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: white;
+    color: white;
+}
+
+.cta-box p {
+    color: white;
+}
