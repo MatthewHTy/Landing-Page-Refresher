@@ -129,3 +129,15 @@ span {
     border-color: white;
     color: white;
 }
+
+.footer {
+    background-color:#1F2937;
+}
+
+.footer-box {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    color: white;
+    padding: 20px;
+}
