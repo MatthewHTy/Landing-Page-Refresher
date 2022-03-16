@@ -94,7 +94,7 @@ span {
 
 .cta {
     background-color: #3882F6;
-    margin: 50px;
+    margin: 100px;
     margin-left: 200px;
     margin-right: 200px;
     border-radius: 10px;
@@ -118,5 +118,14 @@ span {
 }
 
 .cta-box p {
+    color: white;
+}
+
+.sign-up-1 {
+    padding: 10px;
+    border: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: white;
     color: white;
 }
